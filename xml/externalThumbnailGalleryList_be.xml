@@ -1,0 +1,16 @@
+﻿<galleryList>
+
+	<galleryImage fileName="be_logo" fileType="jpg" fileCaption="Logo Design for be bookends" thumbnail="be_logo.jpg" thumbX="840" thumbY="288" />
+	<galleryImage fileName="be_magazine_ad_1" fileType="jpg" fileCaption="Magazine Spread No. 1- based on Rube Goldberg Machines" thumbnail="be_magazine_ad_1.jpg" thumbX="840" thumbY="357"/>
+	<galleryImage fileName="be_magazine_ad_2" fileType="jpg" fileCaption="Magazine Spread No. 2- based on Rube Goldberg Machines" thumbnail="be_magazine_ad_2.jpg" thumbX="840" thumbY="427" />
+	<galleryImage fileName="be_box_before" fileType="jpg" fileCaption="Original bookends box, obviously in need of redesign" thumbnail="be_bookends_box_before.jpg" thumbX="840" thumbY="496" />
+	<galleryImage fileName="be_box_layout" fileType="jpg" fileCaption="Redesigned package" thumbnail="be_box_layout.jpg" thumbX="840" thumbY="565" />
+	<galleryImage fileName="be_concept_explanation" fileType="jpg" fileCaption="Explanation of flaws and solutions to concept and package design" thumbnail="be_concept_explanation.jpg" thumbX="840" thumbY="634"/>
+	<galleryImage fileName="be_sketches_1" fileType="jpg" fileCaption="Sketchbook Spread 1" thumbnail="be_sketches_1.jpg" thumbX="395" thumbY="540" />
+	<galleryImage fileName="be_sketches_2" fileType="jpg" fileCaption="Sketchbook Spread 2" thumbnail="be_sketches_2.jpg" thumbX="470" thumbY="540" />
+	<galleryImage fileName="be_sketches_3" fileType="jpg" fileCaption="Sketchbook Spread 3" thumbnail="be_sketches_3.jpg" thumbX="544" thumbY="540" />
+	<galleryImage fileName="be_sketches_4" fileType="jpg" fileCaption="Sketchbook Spread 4" thumbnail="be_sketches_4.jpg" thumbX="618" thumbY="540"/>
+	<galleryImage fileName="be_sketches_5" fileType="jpg" fileCaption="Sketchbook Spread 5" thumbnail="be_sketches_5.jpg" thumbX="692" thumbY="540" />
+	<galleryImage fileName="be_sketches_6" fileType="jpg" fileCaption="Sketchbook Spread 6" thumbnail="be_sketches_6.jpg" thumbX="766" thumbY="540" />
+	
+</galleryList>

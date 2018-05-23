@@ -1,0 +1,10 @@
+﻿<galleryList>
+
+	<galleryImage fileName="funding_poster" fileType="jpg" fileCaption="Poster for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding_poster.jpg" thumbX="462" thumbY="555"/>
+	<galleryImage fileName="funding_program_cover" fileType="jpg" fileCaption="Program cover for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding_program_cover.jpg" thumbX="822" thumbY="555" />
+	<galleryImage fileName="funding_invitation-cover" fileType="jpg" fileCaption="Invitation cover for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding_invitation-cover.jpg" thumbX="642" thumbY="625"/>
+	<galleryImage fileName="funding_invitation-inside" fileType="jpg" fileCaption="Invitation interior for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding_invitation-inside.jpg" thumbX="462" thumbY="625"/>
+	<galleryImage fileName="funding_invitation-outside" fileType="jpg" fileCaption="Invitation exterior for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding_invitation-outside.jpg" thumbX="642" thumbY="555"/>
+	<galleryImage fileName="funding-arts-network-invitation_outside" fileType="jpg" fileCaption="Invitation exterior for non-profit company dedicated to public arts (esp. Music and Dance)" thumbnail="funding-arts-network-invitation_outside.jpg" thumbX="822" thumbY="625" />
+	
+</galleryList>

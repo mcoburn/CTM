@@ -1,0 +1,9 @@
+﻿<galleryList>
+
+	<galleryImage fileName="rock_billboard" fileType="jpg" fileCaption="Billboard in campaign to get the youth vote by pointing out that only sheep should follow along blindly" thumbnail="rock_billboard.jpg" thumbX="844" thumbY="543"/>
+	<galleryImage fileName="rock_billboard_production" fileType="jpg" fileCaption="Billboard in production-campaign for youth vote" thumbnail="rock_billboard_production.jpg" thumbX="844" thumbY="625"/>
+	<galleryImage fileName="rock_magazine" fileType="jpg" fileCaption="Magazine ad in campaign to get the youth vote by pointing out that only sheep should follow along blindly" thumbnail="rock_magazine.jpg"thumbX="844" thumbY="292" />
+	<galleryImage fileName="rock_pillar_poster" fileType="jpg" fileCaption="Columnar poster designed for college campus, and vertical hanging: Rock the Vote campaign" thumbnail="rock_pillar_poster.jpg" thumbX="844" thumbY="376" />
+	<galleryImage fileName="rock_sticker_and_magnet_set" fileType="jpg" fileCaption="Guerrilla marketing tactic comprised of die cut magnets and stickers, designed for youth: Rock the Vote Campaign " thumbnail="rock_sticker_and_magnet_set.jpg" thumbX="844" thumbY="460"/>
+	
+</galleryList>

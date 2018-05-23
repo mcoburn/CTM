@@ -1,0 +1,14 @@
+﻿<galleryList>
+
+	<galleryImage fileName="pearl brochure" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company" thumbnail="pearl brochure.jpg" thumbX="39" thumbY="517" />
+	<galleryImage fileName="pearl brochure inside" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- interior" thumbnail="pearl brochure inside.jpg" thumbX="39" thumbY="587" />
+	<galleryImage fileName="pearl_brochure_back" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- exterior" thumbnail="pearl_brochure_back.jpg" thumbX="235" thumbY="517" />
+	<galleryImage fileName="pearl_brochure_back-center" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- center back" thumbnail="pearl_brochure_back-center.jpg" thumbX="235" thumbY="587"/>
+	<galleryImage fileName="pearl_brochure_front" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- front cover" thumbnail="pearl_brochure_front.jpg" thumbX="430" thumbY="517" />
+	<galleryImage fileName="pearl_brochure_inside-center" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- inside center" thumbnail="pearl_brochure_inside-center.jpg" thumbX="430" thumbY="587"/>
+	<galleryImage fileName="pearl_brochure_inside-left" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- inside left" thumbnail="pearl_brochure_inside-left.jpg" thumbX="626" thumbY="587" />
+	<galleryImage fileName="pearl_brochure_inside-right" fileType="jpg" fileCaption="Trifold brochure for a small, independent jewelry design company- inside right" thumbnail="pearl_brochure_inside-right.jpg" thumbX="626" thumbY="517"/>
+	<galleryImage fileName="pearl_brochure-postcard1" fileType="jpg" fileCaption="Promotional postcard (1 of 3) for small independent jewelry design company" thumbnail="pearl_brochure-postcard1.jpg" thumbX="821" thumbY="587" />
+	<galleryImage fileName="pearl_postcard_3" fileType="jpg" fileCaption="Promotional postcard (2 of 3) for small independent jewelry design company" thumbnail="pearl_postcard_3.jpg" thumbX="821" thumbY="521"/>
+
+</galleryList>
